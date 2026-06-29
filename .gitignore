@@ -1,0 +1,15 @@
+# Dataset — not committed. Download it from the source in the README:
+# https://archive.ics.uci.edu/dataset/222/bank+marketing
+bank/
+bank-additional/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS / editor cruft sometimes bundled with the dataset
+__MACOSX/
+.DS_Store
